@@ -28,5 +28,7 @@
 <p align="center">
   <img src="./end.gif" width="32%">
   <br>
-  <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"
+  <img src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg">
+  <br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
 </p>
