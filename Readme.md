@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="30%">
+  <img src="./octocat.png" width="30%">
 </p>
 
 
