@@ -14,13 +14,14 @@
 
 
 <p align="center">
-  <img src="./octocat.png" width="30%">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30%">
+
+🔭 I’m currently working on **ReactJS**, **Strapi**, **APIs**
+  <br>
+🌱 I’m developing skills in **Web Developement** and **Open Source Contributions**
+  <br>
+👯 I’m looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
 </p>
-
-
-- 🔭 I’m currently working on **ReactJS**, **Strapi**, **APIs**
-- 🌱 I’m developing skills in **Web Developement** and **Open Source Contributions**
-- 👯 I’m looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
 
 <br>
   
