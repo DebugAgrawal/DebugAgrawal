@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="./animation.gif.mp4" width="30%">
+  <img src="./octocat.png" width="30%">
 </p>
 
 
