@@ -9,7 +9,7 @@
   <a href="https://dev.to/debugagrawal/" target="_blank"><img src="https://img.shields.io/badge/DEV @debugagrawal-000000?style=flat&labelColor=black&logo=Dev-dot-to&link=https://dev.to/debugagrawal/" width="19%"/></a>
   <a href="https://youtube.com/channel/UCGcpX7LmAY7C_8pQiVt4Kig" target="_blank"><img src="https://img.shields.io/badge/-Deepak Agrawal-c21807?style=flat&labelColor=c21807&logo=youtube&link=https://youtube.com/channel/UCGcpX7LmAY7C_8pQiVt4Kig" width="17%"/></a>
   <a href="https://www.linkedin.com/in/your-network-is-your-net-worth/" target="_blank"><img src="https://img.shields.io/badge/-Deepak Agrawal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-network-is-your-net-worth//" width="16%"/></a>
-  <a href="mailto:debug.career@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-debug.career@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:debug.career@gmail.com" width="23%"/></a>
+  <a href="mailto:debug.career@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-debug.career@gmail.com-c21807?style=flat&logo=Gmail&logoColor=white&link=mailto:debug.career@gmail.com" width="23%"/></a>
 </p>
 
 
