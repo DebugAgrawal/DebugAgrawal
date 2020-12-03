@@ -5,7 +5,7 @@
 <p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
 <p margin-bottom="10px"><h1 align="center" > :rocket: Deepak Agrawal :rocket: </h1></p>
 <p align="center" margin-top="10px">
-  <a href="https://twitter.com/debugagrawal" target="_blank"><img src="https://img.shields.io/badge/-@debugagrawal-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white width="17%"/></a>
+  <a href="https://twitter.com/debugagrawal" target="_blank"><img src="https://img.shields.io/badge/-@debugagrawal-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link="https://twitter.com/debugagrawal" width="17%"/></a>
   <a href="https://dev.to/debugagrawal/" target="_blank"><img src="https://img.shields.io/badge/DEV @debugagrawal-000000?style=flat&labelColor=black&logo=Dev-dot-to&link=https://dev.to/debugagrawal/" width="19%"/></a>
   <a href="https://youtube.com/channel/UCGcpX7LmAY7C_8pQiVt4Kig" target="_blank"><img src="https://img.shields.io/badge/-Deepak Agrawal-red?style=flat&labelColor=red&logo=youtube&link=https://youtube.com/channel/UCGcpX7LmAY7C_8pQiVt4Kig" width="17%"/></a>
   <a href="https://www.linkedin.com/in/ramanaditya/" target="_blank"><img src="https://img.shields.io/badge/-Deepak Agrawal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-network-is-your-net-worth//" width="16%"/></a>
