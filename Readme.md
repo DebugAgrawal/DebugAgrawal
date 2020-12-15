@@ -27,9 +27,7 @@
   
   <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DebugAgrawal&langs_count=8">
 </p>
-
 <p align="center">
   <img src="./end.gif" width="32%">
   <br>
