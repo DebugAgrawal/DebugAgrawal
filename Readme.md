@@ -30,7 +30,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27">
 </p>
 
-### - How it started 👨‍💻 :
+### How it started 👨‍💻 :
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 😊 --> 
 <p align="center">
 <details>
@@ -43,15 +43,14 @@
 <summary>Then I started using</summary>
 <img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <details>
-<summary>Then I learnt</summary>
-<img src="./media/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-<details>
-<summary>Then I learnt which was quite amazing and useful</summary>
+<summary>Then I learnt which... </summary>
 <img src="./media/git.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="./media/github.svg" alt="js" style="vertical-align:top; margin:4px">
+was quite amazing and got to know about versio control
 <details>
-<summary>Then I started learning and got addicted to web developement</summary>
+<summary>Then I started learning </summary>
 <img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
+and got addicted to web developement 🖤👨‍💻🚀
 <details>
 <summary>And now I'm Learning</summary>
 <img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
