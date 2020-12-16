@@ -32,12 +32,12 @@
 <details>
 ### - <summary>Languages and Tools...</summary>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  - <img src="./media/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  - <img src="./media/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-  - <img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  - <img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  - <img src="./media/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  - <img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<br><img src="./media/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<br><img src="./media/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+<br><img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<br><img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<br><img src="./media/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+<br><img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </details>
 
 <p align="center">
