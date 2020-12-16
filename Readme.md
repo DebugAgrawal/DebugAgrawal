@@ -30,25 +30,36 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27">
 </p>
 
-### - Languages and Tools I use :
+### - How it started 👨‍💻 :
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 😊 --> 
 <p align="center">
 <details>
-<img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<details>
-<summary>How it started</summary>
+<summary>I started Learning</summary>
 <img src="./media/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <details>
+<summary>Then I learnt</summary>
 <img src="./media/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
 <details>
-<img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<summary>Then I started using</summary>
+<img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <details>
+<summary>Then I learnt</summary>
 <img src="./media/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
 <details>
+<summary>Then I learnt which was quite amazing and useful</summary>
+<img src="./media/git.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="./media/github.svg" alt="js" style="vertical-align:top; margin:4px">
+<details>
+<summary>Then I started learning and got addicted to web developement</summary>
+<img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<details>
+<summary>And now I'm Learning</summary>
 <img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="./media/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 <details>
-And more to add to the list
+<summary>....</summary>
+And the list will go on increasing 😊👨‍💻🤓
+</details>
 </details>
 </details>
 </details>
