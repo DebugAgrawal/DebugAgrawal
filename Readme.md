@@ -37,31 +37,36 @@
 <summary>I started Learning</summary>
 <br>
 <img src="./media/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<br>
 <details>
 <summary>Then I learnt</summary>
 <br>
 <img src="./media/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+<br>
 <details>
 <summary>Then I started using</summary>
 <br>
 <img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<br>
 <details>
 <summary>Then I learnt... </summary>
 <br>
 <img src="./media/git.svg" alt="js" style="vertical-align:top; margin:4px">
-<br>
 <img src="./media/github.svg" alt="js" style="vertical-align:top; margin:4px">
-    which was quite amazing and got to know about version control
+<br>which was quite amazing and got to know about version control
+<br>
 <details>
 <summary>Then I started learning </summary>
 <br>
 <img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
-and got addicted to web developement 🖤👨‍💻🚀
+<br>and got addicted to web developement 🖤👨‍💻🚀
+<br>
 <details>
 <summary>And now I'm Learning</summary>
 <br>
 <img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="./media/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+<br>
 <details>
 <summary>....</summary>
 And the list will go on increasing 😊👨‍💻🤓
