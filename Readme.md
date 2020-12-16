@@ -1,4 +1,4 @@
-<details style="color: green">
+<details open>
   <p align="center"> 
   :eyes: <br>
   <img src="https://profile-counter.glitch.me/DebugAgrawal/count.svg" width="20%" />
