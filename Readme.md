@@ -1,4 +1,4 @@
-<details open>
+
   <p align="center"> 
   :eyes: <br>
   <img src="https://profile-counter.glitch.me/DebugAgrawal/count.svg" width="20%" />
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/your-network-is-your-net-worth/" target="_blank"><img src="https://img.shields.io/badge/-Deepak Agrawal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-network-is-your-net-worth//" width="16%"/></a>
   <a href="mailto:debug.career@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-debug.career@gmail.com-c21807?style=flat&logo=Gmail&logoColor=white&link=mailto:debug.career@gmail.com" width="23%"/></a>
 </p>
-
+<details open>
 
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30%">
@@ -30,18 +30,18 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27">
 </p>
 
-###
-<details>
- - <summary>Languages and Tools...</summary>
+### - Languages and Tools...
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<br><img src="./media/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-<br><img src="./media/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-<br><img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<br><img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<br><img src="./media/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<br><img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<p align="center">
+<img src="./media/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="./media/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+<img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="./media/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+<img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="./media/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+<img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 </details>
-
 <p align="center">
   <img src="./media/end.gif" width="32%">
   <br>
@@ -49,4 +49,3 @@
   <br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
 </p>
-</details>
