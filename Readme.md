@@ -1,3 +1,4 @@
+<details>
   <p align="center"> 
   :eyes: <br>
   <img src="https://profile-counter.glitch.me/DebugAgrawal/count.svg" width="20%" />
@@ -47,3 +48,4 @@
   <br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
 </p>
+</details>
