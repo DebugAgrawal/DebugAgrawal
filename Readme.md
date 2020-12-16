@@ -30,16 +30,32 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27">
 </p>
 
-### - Languages and Tools...
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+### - Languages and Tools I use :
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 😊 --> 
 <p align="center">
+<details>
+<img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<details>
+<summary>How it started</summary>
 <img src="./media/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<details>
 <img src="./media/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+<details>
 <img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<details>
 <img src="./media/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+<details>
 <img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="./media/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<details>
+And more to add to the list
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
 </p>
 </details>
 <p align="center">
