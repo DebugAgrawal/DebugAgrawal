@@ -30,8 +30,9 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27">
 </p>
 
+###
 <details>
-### - <summary>Languages and Tools...</summary>
+ - <summary>Languages and Tools...</summary>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <br><img src="./media/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <br><img src="./media/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
