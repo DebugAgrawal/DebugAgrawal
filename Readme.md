@@ -43,10 +43,10 @@
 <summary>Then I started using</summary>
 <img src="./media/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <details>
-<summary>Then I learnt which... </summary>
+<summary>Then I learnt... </summary>
 <img src="./media/git.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="./media/github.svg" alt="js" style="vertical-align:top; margin:4px">
-was quite amazing and got to know about versio control
+    which was quite amazing and got to know about versio control
 <details>
 <summary>Then I started learning </summary>
 <img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
