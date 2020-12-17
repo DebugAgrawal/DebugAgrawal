@@ -55,6 +55,7 @@
 <summary>And now I'm Learning</summary>
 <br>
 <img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="./media/nodejs.svg" alt="npm" style="vertical-align:top; margin:4px">
 <img src="./media/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 <details>
 <summary>....</summary>
