@@ -13,10 +13,11 @@
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30%">
 
 🔭 I’m currently working on **ReactJS**, **Strapi**, **APIs**
-  <br>
+<br>
 🌱 I’m developing skills in **Web Developement** and **Open Source Contributions**
-  <br>
+<br>
 👯 I’m looking to collaborate on _**Open Source**_ and _**Personal**_ projects.
+
 </p>
 
 <br>
@@ -26,7 +27,8 @@
 </p>
 
 ### How it started 👨‍💻 :
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 😊 --> 
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 😊 -->
 <p align="center">
 <details>
 <summary>I started Learning</summary>
@@ -82,5 +84,4 @@ And the list will go on increasing 😊👨‍💻🤓
 <!-- 
   <p align="center"> 
   :eyes: <br>
-  <!-- <img src="https://profile-counter.glitch.me/DebugAgrawal/count.svg" width="20%" /> -->
-</p> -->
+  <!-- <img src="https://profile-counter.glitch.me/DebugAgrawal/count.svg" width="20%" /> </p> -->
