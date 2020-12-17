@@ -1,6 +1,6 @@
 
   <p align="center"> 
-  :eyes: <br>
+  :eyes: <br><br>
   <img src="https://komarev.com/ghpvc/?username=DebugAgrawal" alt="DebugAgrawal" /> 
   <!-- <img src="https://profile-counter.glitch.me/DebugAgrawal/count.svg" width="20%" /> -->
 </p>
