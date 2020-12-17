@@ -1,9 +1,3 @@
-
-  <p align="center"> 
-  :eyes: <br>
-  <img src="https://komarev.com/ghpvc/?username=DebugAgrawal" alt="DebugAgrawal" /> 
-  <!-- <img src="https://profile-counter.glitch.me/DebugAgrawal/count.svg" width="20%" /> -->
-</p>
 <p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
 <p margin-bottom="10px"><h1 align="center" > :rocket: Deepak Agrawal :rocket: </h1></p>
 <p align="center" margin-top="10px">
@@ -81,4 +75,10 @@ And the list will go on increasing 😊👨‍💻🤓
   <img src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg">
   <br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://komarev.com/ghpvc/?username=DebugAgrawal" alt="DebugAgrawal" /> 
 </p>
+<!-- 
+  <p align="center"> 
+  :eyes: <br>
+  <!-- <img src="https://profile-counter.glitch.me/DebugAgrawal/count.svg" width="20%" /> -->
+</p> -->
