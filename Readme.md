@@ -23,7 +23,8 @@
 <br>
   
   <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27"><br>
+  <!-- <img src = "https://github-profile-trophy.vercel.app/?username=DebugAgrawal&theme=monokai"> -->
 </p>
 
 ### How it started 👨‍💻 :
@@ -72,6 +73,7 @@ And the list will go on increasing 😊👨‍💻🤓
 </details>
 </p>
 </details>
+
 <p align="center">
   <img src="./media/end.gif" width="32%">
   <br>
