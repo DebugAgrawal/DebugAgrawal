@@ -40,8 +40,12 @@
   
   <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=DebugAgrawal&show_icons=true&line_height=27"><br>
+  
   <!-- <img src = "https://github-profile-trophy.vercel.app/?username=DebugAgrawal&theme=monokai"> -->
 </p>
+
+![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=DebugAgrawal&theme=xcode)
+
 
 ### How it started 👨‍💻 :
 
@@ -71,6 +75,8 @@
 <img src="./media/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <br>and got addicted to web developement 🖤👨‍💻🚀
 <details>
+
+
 <summary>And now I'm Learning</summary>
 <br>
 <img src="./media/react.svg" alt="react" style="vertical-align:top; margin:4px">
